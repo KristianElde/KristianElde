@@ -1,4 +1,5 @@
-### Hi there 👋
+# Kristian Elde Johansen
+Studying computer science at the University of Bergen
 
 <!--
 **KristianElde/KristianElde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
