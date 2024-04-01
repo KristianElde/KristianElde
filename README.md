@@ -5,7 +5,7 @@
 ## Homepage
 Check out my homepage at:
 
-https://homepage-nu-one.vercel.app
+https://www.kristianelde.me
 
 ## Contact information
 - Send me an E-mail: kristian.elde.johansen@gmail.com
