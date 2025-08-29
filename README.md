@@ -1,6 +1,6 @@
 # Kristian Elde Johansen
 ## About me
-23 year old informatics-student from Norway. Currently studying computer technology at the University of Bergen.
+24 year old guy from Norway. Currently studying Artificial Intelligence at the University of Amsterdam.
 
 ## Homepage
 Check out my homepage at:
