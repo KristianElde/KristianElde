@@ -8,7 +8,7 @@ Check out my homepage at:
 https://www.kristianelde.me
 
 ## Contact information
-- Send me an E-mail: kristian.elde.johansen@gmail.com
+- Send me an E-mail: kristian.elde@proton.me
 - Connect with me on [LinkedIn](linkedin.com/in/kristian-elde-johansen)
 
 <!--
